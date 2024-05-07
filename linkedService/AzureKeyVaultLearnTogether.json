@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultLearnTogether",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://keyVault-LearnTogether.vault.azure.net/"
+		}
+	}
+}
